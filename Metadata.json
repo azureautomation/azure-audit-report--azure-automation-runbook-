@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 11150,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-audit-report-(azure-automation-runbook)/master/Azure_audit_script.ps1",
+    "DownloadCount": 2095,
+    "Id": "Azure-audit-report-Azure-1c584f90",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 58,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "Want to know about innovative and interesting ideas in Azure and automation? Check out my blog:\u00a0https://manjunathrao.com/The PowerShell script is an Azure automation runbook that pulls the below data and populates the data into a CSV file. The script then summarizes the data into",
+    "Title": "Azure audit report (Azure automation runbook)",
+    "UpdatedDate": "2019-1-5T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-audit-report-(azure-automation-runbook)",
+    "UserTags": "Send Email, Microsoft Azure, Windows Azure Virtual Machines"
+}
